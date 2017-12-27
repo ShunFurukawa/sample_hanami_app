@@ -1,0 +1,3 @@
+project=sample_hanami_app
+test=minitest
+template=erb
